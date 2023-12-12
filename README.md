@@ -20,9 +20,38 @@
 <a href="https://www.linkedin.com/in/srinivassarkar-049320212" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/srinivassarkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:srinivassarkar07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+</div>
+
+<!-- My Coding Profiles section -->
+<h3 align="left">My Coding Profiles:</h3>
 <p align="left">
-<a href="https://twitter.com/random_techy" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="random_techy" height="30" width="40" /></a><a href="https://linkedin.com/in/srinivassarkar-049320212" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="srinivassarkar-049320212" height="30" width="40" /></a><a href="https://www.hackerrank.com/srinivassarkar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="srinivassarkar07" height="30" width="40" /></a><a href="https://www.leetcode.com/seenusarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="seenusarkar" height="30" width="40" /></a><a href="https://medium.com/@srinivassarkar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@srinivassarkar07" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/srinivassarkar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="srinivassarkar07" height="30" width="40" /></a></p>
+  <a href="https://www.hackerrank.com/srinivassarkar07" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="srinivassarkar07" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/seenusarkar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="seenusarkar" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/srinivassarkar07" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="srinivassarkar07" height="30" width="40" />
+  </a>
+</p>
+
+
+
+
+
+<!-- Connect with me section -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/random_techy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="random_techy" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/srinivassarkar-049320212" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="srinivassarkar-049320212" height="30" width="40" />
+  </a>
+</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
