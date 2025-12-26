@@ -1,28 +1,24 @@
-# 💫 About Me
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Srinivas Sarkar
+========================================================================================================================================
 
-**DevOps Engineer** specializing in **Kubernetes, AWS, and GitOps**. I build production-ready infrastructure with security-first principles.
+DevOps / Cloud Engineer | AWS | Kubernetes | Terraform | GitOps | DevSecOps
+---------------------------------------------------------------------------
 
-### 🛠️ My Work
-- Building **secure, scalable Kubernetes platforms** on AWS
-- Implementing **GitOps workflows** for predictable deployments
-- Solving **real infrastructure challenges** through automation
+I began my journey as a Node.js developer, but quickly discovered a passion for Cloud, DevOps, automation, and secure infrastructure.
 
-### 📚 Projects
-- **Secure GitOps CI/CD**: Production DevSecOps pipeline on EKS
-- **Kubernetes Observability**: Full-stack monitoring & load testing
-- **Multi-Cluster Management**: Enterprise hub-spoke architecture
+Now I focus on building production-style AWS EKS platforms, secure CI/CD pipelines, GitOps automation, and full-stack observability systems solving real-world engineering problems, not just theory.
 
-### 🌱 Currently Exploring
-- Service mesh (Istio/Linkerd)
-- Advanced GitOps patterns
-- Kubernetes security tooling
+* 🌍  I'm based in Hyderabad, India
+* 🖥️  See my portfolio at [Portfolio (Coming Soon)](http://github.com/srinivassarkar)
+* ✉️  You can contact me at [srinivassarkar07@gmail.com](mailto:srinivassarkar07@gmail.com)
+* 🧠  I'm currently learning • MLOps • Chaos Engineering • Advanced Kubernetes and Cloud Security
+* 👥  I'm looking to collaborate on • DevOps / Cloud Projects • Kubernetes Platforms • Security + Automation Projects
+* 💬  Ask me about I break things to learn — then rebuild them better 😎
 
-### 🤝 Connect
-Always open to discussing **cloud architecture, DevOps, or Kubernetes**.
-Let's build something amazing together!
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+</p>
 
----
+### Socials
 
-*"Building secure, observable, and maintainable infrastructure – one automation at a time."*
-
----
+<p align="left"> <a href="https://www.github.com/srinivassarkar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/randomtechy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/srinivassarkar-049320212" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
