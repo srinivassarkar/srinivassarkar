@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**srinivassarkar/srinivassarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer** specializing in **Kubernetes, AWS, and GitOps**. I build production-ready infrastructure with security-first principles.
 
-Here are some ideas to get you started:
+### 🛠️ My Work
+- Building **secure, scalable Kubernetes platforms** on AWS
+- Implementing **GitOps workflows** for predictable deployments
+- Solving **real infrastructure challenges** through automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects
+- **Secure GitOps CI/CD**: Production DevSecOps pipeline on EKS
+- **Kubernetes Observability**: Full-stack monitoring & load testing
+- **Multi-Cluster Management**: Enterprise hub-spoke architecture
+
+### 🌱 Currently Exploring
+- Service mesh (Istio/Linkerd)
+- Advanced GitOps patterns
+- Kubernetes security tooling
+
+### 🤝 Connect
+Always open to discussing **cloud architecture, DevOps, or Kubernetes**.
+Let's build something amazing together!
+
+---
+
+*"Building secure, observable, and maintainable infrastructure – one automation at a time."*
+
+---
