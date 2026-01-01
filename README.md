@@ -30,6 +30,8 @@ Now I focus on building production-style AWS EKS platforms, secure CI/CD pipelin
   <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="Argo CD" title="Argo CD" width="36" height="36" />
 </a>
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="36" height="36" />
+<img src="https://cdn.simpleicons.org/grafana/F46800" width="36" height="36" />
 </p>
 
 
