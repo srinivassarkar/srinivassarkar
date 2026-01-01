@@ -27,7 +27,9 @@ Now I focus on building production-style AWS EKS platforms, secure CI/CD pipelin
   <!-- Stack extensions via an external SVG API -->
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=terraform&size=36" alt="Terraform" title="Terraform" />
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=githubactions&size=36" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=argocd&size=36" alt="Argo CD" title="Argo CD" />
+  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="Argo CD" title="Argo CD" width="36" height="36" />
+</a>
 </p>
 
 
