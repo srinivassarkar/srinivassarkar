@@ -9,7 +9,7 @@ I began my journey as a Node.js developer, but quickly discovered a passion for 
 Now I focus on building production-style AWS EKS platforms, secure CI/CD pipelines, GitOps automation, and full-stack observability systems solving real-world engineering problems, not just theory.
 
 * 🌍  I'm based in Hyderabad, India
-* 🖥️  See my portfolio at [Portfolio (Coming Soon)](http://github.com/srinivassarkar)
+* 🖥️  See my portfolio at [Portfolio](https://devops-nu-wheat.vercel.app/)
 * ✉️  You can contact me at [srinivassarkar07@gmail.com](mailto:srinivassarkar07@gmail.com)
 * 🧠  I'm currently learning • MLOps • Chaos Engineering • Advanced Kubernetes and Cloud Security
 * 👥  I'm looking to collaborate on • DevOps / Cloud Projects • Kubernetes Platforms • Security + Automation Projects
