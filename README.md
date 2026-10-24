@@ -6,7 +6,7 @@ I am a Platform and AI Infrastructure Engineer with a backend engineering backgr
 
 Currently at **iProtechs**, I own operational uptime across 16+ microservices (Node.js, TypeScript, Python), engineer Zero-Trust ingress pipelines via Cloudflare Tunnels and Nginx, automate deployments with custom shell tooling, and serve as the primary on-call responder for Sev-1 production incidents.
 
-> **Status:** Actively interviewing for Senior Platform, AI Infrastructure, and SRE roles (India & Remote US).
+> **Status:** Actively interviewing for Platform, AI Infrastructure, and SRE roles (India & Remote).
 
 ---
 
